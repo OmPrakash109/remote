@@ -1,0 +1,1 @@
+This is a sample file to show how 'pull' works. I am giving pull command 'git pull origin main' from my local machine to pull the file assuming it is added by someone else on this remote or github repository.
